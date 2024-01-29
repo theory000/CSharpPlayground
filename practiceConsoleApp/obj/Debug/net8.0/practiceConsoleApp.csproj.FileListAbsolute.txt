@@ -1,0 +1,15 @@
+E:\C#\Beginner Course\practiceConsoleApp\bin\Debug\net8.0\practiceConsoleApp.exe
+E:\C#\Beginner Course\practiceConsoleApp\bin\Debug\net8.0\practiceConsoleApp.deps.json
+E:\C#\Beginner Course\practiceConsoleApp\bin\Debug\net8.0\practiceConsoleApp.runtimeconfig.json
+E:\C#\Beginner Course\practiceConsoleApp\bin\Debug\net8.0\practiceConsoleApp.dll
+E:\C#\Beginner Course\practiceConsoleApp\bin\Debug\net8.0\practiceConsoleApp.pdb
+E:\C#\Beginner Course\practiceConsoleApp\obj\Debug\net8.0\practiceConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Beginner Course\practiceConsoleApp\obj\Debug\net8.0\practiceConsoleApp.AssemblyInfoInputs.cache
+E:\C#\Beginner Course\practiceConsoleApp\obj\Debug\net8.0\practiceConsoleApp.AssemblyInfo.cs
+E:\C#\Beginner Course\practiceConsoleApp\obj\Debug\net8.0\practiceConsoleApp.csproj.CoreCompileInputs.cache
+E:\C#\Beginner Course\practiceConsoleApp\obj\Debug\net8.0\practiceConsoleApp.sourcelink.json
+E:\C#\Beginner Course\practiceConsoleApp\obj\Debug\net8.0\practiceConsoleApp.dll
+E:\C#\Beginner Course\practiceConsoleApp\obj\Debug\net8.0\refint\practiceConsoleApp.dll
+E:\C#\Beginner Course\practiceConsoleApp\obj\Debug\net8.0\practiceConsoleApp.pdb
+E:\C#\Beginner Course\practiceConsoleApp\obj\Debug\net8.0\practiceConsoleApp.genruntimeconfig.cache
+E:\C#\Beginner Course\practiceConsoleApp\obj\Debug\net8.0\ref\practiceConsoleApp.dll
