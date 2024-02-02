@@ -6,6 +6,7 @@ namespace MyApplication
   {
     static void Main(string[] args)
     {
+        /*
       // Marks Calculator
       Console.Write("Enter your maths marks: ");
       int mats = Convert.ToInt32(Console.ReadLine());
@@ -21,6 +22,10 @@ namespace MyApplication
 
       int totalMarks = Convert.ToInt32(mats + sci + sos + geo);
       Console.WriteLine("Your total Marks are: " + totalMarks);
+*/
+      int x = 10;
+      x =+ 5;
+      Console.WriteLine(x);
      }
   }
 }
