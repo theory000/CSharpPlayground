@@ -7,9 +7,20 @@ namespace String
     static void Main(string[] args)
     {
 
-      Console.WriteLine("I'm \nViking");
-      Console.WriteLine("I'm \tViking");
-      Console.WriteLine("I'm \bViking");
+      int votingAge = 18;
+      string enterAge = "Enter your age: ";
+      Console.Write(enterAge);
+      bool success = int.TryParse(Console.ReadLine(), out int yourAge);
+
+
+      if (yourAge >= votingAge) {
+        Console.WriteLine("Your can vote.");
+      }
+      else if (yourAge < votingAge) {
+        Console.WriteLine("You can't vote");
+      } else {
+        Console.WriteLine("Invalid Input!");
+      }
 
     }
   }
