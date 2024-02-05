@@ -7,8 +7,10 @@ namespace String
     static void Main(string[] args)
     {
 
-      string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
-      Console.WriteLine(cars.Length);
+     string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+      cars[0] = "Opel";
+      Console.WriteLine(cars[0]);
+      // Now outputs Opel instead of Volvo
 
     }
   }
